@@ -1,0 +1,12 @@
+.code {
+    font-size: 20px;
+    border: 5px solid black;
+    text-align: center;
+    width: 100%;
+    align-self: center;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
